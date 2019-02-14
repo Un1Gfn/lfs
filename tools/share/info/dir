@@ -2080,11 +2080,14 @@ GNU organization
                                 Maintaining GNU findutils
 
 Individual utilities
+* Gawk Work Flow: (gawkworkflow)Overview.       Participating in 'gawk' 
+                                                  development.
 * addr2line: (binutils)addr2line.               Convert addresses to file and 
                                                   line.
 * ar: (binutils)ar.                             Create, modify, and extract 
                                                   from archives.
 * arch: (coreutils)arch invocation.             Print machine hardware name.
+* awk: (gawk)Invoking Gawk.                     Text scanning and processing.
 * b2sum: (coreutils)b2sum invocation.           Print or check BLAKE2 digests.
 * base32: (coreutils)base32 invocation.         Base32 encode/decode data.
 * base64: (coreutils)base64 invocation.         Base64 encode/decode data.
@@ -2220,6 +2223,9 @@ Individual utilities
 * xargs: (find)Invoking xargs.                  Operating on many files.
 * yes: (coreutils)yes invocation.               Print a string indefinitely.
 
+Network applications
+* awkinet: (gawkinet).          TCP/IP Internetworking With 'gawk'.
+
 Programming
 * DejaGnu: (dejagnu).           The GNU testing framework.
 
@@ -2248,4 +2254,7 @@ Software libraries
 
 Text creation and manipulation
 * Diffutils: (diffutils).       Comparing and merging files.
+* Gawk: (gawk).                 A text scanning and processing language.
+* Gawk Work Flow: (gawkworkflow).
+                                Participating in 'gawk' development.
 * M4: (m4).                     A powerful macro processor.
