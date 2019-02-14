@@ -2096,6 +2096,9 @@ Individual utilities
                                                   resources.
 * windres: (binutils)windres.                   Manipulate Windows resources.
 
+Programming
+* DejaGnu: (dejagnu).           The GNU testing framework.
+
 Software development
 * As: (as).                     The GNU assembler.
 * Bfd: (bfd).                   The Binary File Descriptor library.
