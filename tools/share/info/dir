@@ -2062,6 +2062,10 @@ GNU C library functions and macros
 * ynl: (libc)Special Functions.
 * yn: (libc)Special Functions.
 
+GNU Libraries
+* libitm: (libitm).             GNU Transactional Memory Library
+* libquadmath: (libquadmath).   GCC Quad-Precision Math Library
+
 Individual utilities
 * addr2line: (binutils)addr2line.               Convert addresses to file and 
                                                   line.
