@@ -2270,3 +2270,4 @@ Text creation and manipulation
                                 Participating in 'gawk' development.
 * M4: (m4).                     A powerful macro processor.
 * grep: (grep).                 Print lines matching a pattern.
+* sed: (sed).                   Stream EDitor.  
