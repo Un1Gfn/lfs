@@ -1,4 +1,10 @@
+# Bind mount
 dev/
 proc/
 sys/
-./tmp*
+
+# ln -sv /proc/self/mounts /etc/mtab
+/etc/mtab
+
+/tmp
+.bash_history
