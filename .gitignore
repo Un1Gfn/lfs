@@ -1,7 +1,8 @@
-# Bind mount
-dev/
-proc/
-sys/
+# Virtual Kernel File Systems
+# gitignore(5): A leading slash matches the beginning of the pathname. For example, "/*.c" matches "cat-file.c" but not "mozilla-sha1/sha1.c".
+/dev
+/proc
+/sys
 
 # ln -sv /proc/self/mounts /etc/mtab
 /etc/mtab
