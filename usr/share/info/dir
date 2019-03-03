@@ -2069,3 +2069,6 @@ Libraries
 
 Software libraries
 * Libc: (libc).                 C library.
+
+Text creation and manipulation
+* M4: (m4).                     A powerful macro processor.
