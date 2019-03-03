@@ -2114,6 +2114,8 @@ Software development
 
 Software libraries
 * Libc: (libc).                 C library.
+* mpfr: (mpfr).                 Multiple Precision Floating-Point Reliable 
+                                  Library.
 
 Text creation and manipulation
 * M4: (m4).                     A powerful macro processor.
