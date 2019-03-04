@@ -8,4 +8,6 @@
 /etc/mtab
 
 /tmp
+
 .bash_history
+.gdbmtool_history
