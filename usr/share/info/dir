@@ -2113,6 +2113,10 @@ Miscellaneous
 * bc: (bc).                     An arbitrary precision calculator language.
 * dc: (dc).                     Arbitrary precision RPN "Desktop Calculator".
 
+Programming
+* flex: (flex).                 Fast lexical analyzer generator (lex 
+                                  replacement).
+
 Software development
 * As: (as).                     The GNU assembler.
 * Bfd: (bfd).                   The Binary File Descriptor library.
