@@ -2077,6 +2077,9 @@ GNU Libraries
 * libitm: (libitm).             GNU Transactional Memory Library
 * libquadmath: (libquadmath).   GCC Quad-Precision Math Library
 
+GNU organization
+* Standards: (standards).       GNU coding standards.
+
 GNU Packages
 * mpc: (mpc)Multiple Precision Complex Library.
 
@@ -2085,8 +2088,24 @@ Individual utilities
                                                   line.
 * ar: (binutils)ar.                             Create, modify, and extract 
                                                   from archives.
+* autoconf-invocation: (autoconf)autoconf Invocation.
+                                                How to create configuration 
+                                                  scripts
+* autoheader: (autoconf)autoheader Invocation.  How to create configuration 
+                                                  templates
+* autom4te: (autoconf)autom4te Invocation.      The Autoconf executables 
+                                                  backbone
+* autoreconf: (autoconf)autoreconf Invocation.  Remaking multiple `configure' 
+                                                  scripts
+* autoscan: (autoconf)autoscan Invocation.      Semi-automatic `configure.ac' 
+                                                  writing
+* autoupdate: (autoconf)autoupdate Invocation.  Automatic update of 
+                                                  `configure.ac'
 * c++filt: (binutils)c++filt.                   Filter to demangle encoded C++ 
                                                   symbols.
+* config.status: (autoconf)config.status Invocation.
+                                                Recreating configurations.
+* configure: (autoconf)configure Invocation.    Configuring a package.
 * cxxfilt: (binutils)c++filt.                   MS-DOS name for c++filt.
 * dlltool: (binutils)dlltool.                   Create files needed to build 
                                                   and use DLLs.
@@ -2097,6 +2116,7 @@ Individual utilities
 * ftp: (inetutils)ftp invocation.               FTP client.
 * ftpd: (inetutils)ftpd invocation.             FTP Daemon.
 * hostname: (inetutils)hostname invocation.     Show or set system host name.
+* ifnames: (autoconf)ifnames Invocation.        Listing conditionals in source.
 * inetd: (inetutils)inetd invocation.           Internet super-server.
 * libtool-invocation: (libtool)Invoking libtool.
                                                 Running the 'libtool' script.
@@ -2131,6 +2151,7 @@ Individual utilities
 * talkd: (inetutils)talkd invocation.           Talk server.
 * telnet: (inetutils)telnet invocation.         User interface to TELNET.
 * telnetd: (inetutils)telnetd invocation.       Telnet server.
+* testsuite: (autoconf)testsuite Invocation.    Running an Autotest test suite.
 * tftp: (inetutils)tftp invocation.             TFTP client.
 * tftpd: (inetutils)tftpd invocation.           TFTP server.
 * traceroute: (inetutils)traceroute invocation. Trace the route to a host.
@@ -2161,6 +2182,7 @@ Programming & development tools
 
 Software development
 * As: (as).                     The GNU assembler.
+* Autoconf: (autoconf).         Create source code configuration scripts.
 * Bfd: (bfd).                   The Binary File Descriptor library.
 * Binutils: (binutils).         The GNU binary utilities.
 * Cpplib: (cppinternals).       Cpplib internals.
