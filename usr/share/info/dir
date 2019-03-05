@@ -2347,6 +2347,7 @@ Software development
 * Automake: (automake).         Making GNU standards-compliant Makefiles.
 * Bfd: (bfd).                   The Binary File Descriptor library.
 * Binutils: (binutils).         The GNU binary utilities.
+* Check: (check)Introduction.
 * Cpplib: (cppinternals).       Cpplib internals.
 * Gas: (as).                    The GNU assembler.
 * Ld: (ld).                     The GNU linker.
