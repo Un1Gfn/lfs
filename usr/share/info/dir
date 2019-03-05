@@ -24,6 +24,8 @@ C++ libraries
 * autosprintf: (autosprintf).   Support for printf format strings in C++.
 
 Development
+* Com_err: (com_err).           A Common Error Description Library for UNIX.
+* libext2fs: (libext2fs).       The EXT2FS library.
 * libffi: (libffi).             Portable foreign-function interface library.
 
 GNU C library functions and macros
