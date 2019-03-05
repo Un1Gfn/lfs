@@ -2140,6 +2140,8 @@ GNU Packages
 * mpc: (mpc)Multiple Precision Complex Library.
 
 Individual utilities
+* Gawk Work Flow: (gawkworkflow)Overview.       Participating in 'gawk' 
+                                                  development.
 * aclocal-invocation: (automake)aclocal Invocation.
                                                 Generating aclocal.m4.
 * addr2line: (binutils)addr2line.               Convert addresses to file and 
@@ -2162,6 +2164,7 @@ Individual utilities
                                                   writing
 * autoupdate: (autoconf)autoupdate Invocation.  Automatic update of 
                                                   `configure.ac'
+* awk: (gawk)Invoking Gawk.                     Text scanning and processing.
 * b2sum: (coreutils)b2sum invocation.           Print or check BLAKE2 digests.
 * base32: (coreutils)base32 invocation.         Base32 encode/decode data.
 * base64: (coreutils)base64 invocation.         Base64 encode/decode data.
@@ -2336,6 +2339,9 @@ Miscellaneous
 * bc: (bc).                     An arbitrary precision calculator language.
 * dc: (dc).                     Arbitrary precision RPN "Desktop Calculator".
 
+Network applications
+* awkinet: (gawkinet).          TCP/IP Internetworking With 'gawk'.
+
 Programming
 * flex: (flex).                 Fast lexical analyzer generator (lex 
                                   replacement).
@@ -2375,6 +2381,9 @@ Software libraries
 
 Text creation and manipulation
 * Diffutils: (diffutils).       Comparing and merging files.
+* Gawk: (gawk).                 A text scanning and processing language.
+* Gawk Work Flow: (gawkworkflow).
+                                Participating in 'gawk' development.
 * M4: (m4).                     A powerful macro processor.
 * grep: (grep).                 Print lines matching a pattern.
 * sed: (sed).                   Stream EDitor.  
