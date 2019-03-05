@@ -21,6 +21,7 @@ Basics
 * Date input formats: (coreutils)Date input formats.
 * File permissions: (coreutils)File permissions.
                                 Access modes.
+* Finding files: (find).        Operating on files matching certain criteria.
 * Inetutils: (inetutils).       GNU networking utilities.
 
 C++ libraries
@@ -2134,6 +2135,8 @@ GNU Libraries
 * libquadmath: (libquadmath).   GCC Quad-Precision Math Library
 
 GNU organization
+* Maintaining Findutils: (find-maint).
+                                Maintaining GNU findutils
 * Standards: (standards).       GNU coding standards.
 
 GNU Packages
@@ -2208,6 +2211,7 @@ Individual utilities
 * expr: (coreutils)expr invocation.             Evaluate expressions.
 * factor: (coreutils)factor invocation.         Print prime factors
 * false: (coreutils)false invocation.           Do nothing, unsuccessfully.
+* find: (find)Invoking find.                    Finding and acting on files.
 * fmt: (coreutils)fmt invocation.               Reformat paragraph text.
 * fold: (coreutils)fold invocation.             Wrap long input lines.
 * ftp: (inetutils)ftp invocation.               FTP client.
@@ -2227,6 +2231,7 @@ Individual utilities
 * libtoolize: (libtool)Invoking libtoolize.     Adding libtool support.
 * link: (coreutils)link invocation.             Make hard links between files.
 * ln: (coreutils)ln invocation.                 Make links between files.
+* locate: (find)Invoking locate.                Finding files in a database.
 * logger: (inetutils)logger invocation.         Send messages to the system 
                                                   log.
 * logname: (coreutils)logname invocation.       Print current login name.
@@ -2317,6 +2322,7 @@ Individual utilities
 * unexpand: (coreutils)unexpand invocation.     Convert spaces to tabs.
 * uniq: (coreutils)uniq invocation.             Uniquify files.
 * unlink: (coreutils)unlink invocation.         Removal via unlink(2).
+* updatedb: (find)Invoking updatedb.            Building the locate database.
 * uptime: (coreutils)uptime invocation.         Print uptime and load.
 * users: (coreutils)users invocation.           Print current user names.
 * uucpd: (inetutils)uucpd invocation.           Unix to Unix Copy.
@@ -2328,6 +2334,7 @@ Individual utilities
 * windmc: (binutils)windmc.                     Generator for Windows message 
                                                   resources.
 * windres: (binutils)windres.                   Manipulate Windows resources.
+* xargs: (find)Invoking xargs.                  Operating on many files.
 * yes: (coreutils)yes invocation.               Print a string indefinitely.
 
 Libraries
