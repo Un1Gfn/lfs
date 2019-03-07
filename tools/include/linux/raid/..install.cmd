@@ -1,1 +1,0 @@
-cmd_dest/include/linux/raid/.install := /bin/sh scripts/headers_install.sh dest/include/linux/raid ./include/uapi/linux/raid md_u.h md_p.h; /bin/sh scripts/headers_install.sh dest/include/linux/raid ./include/generated/uapi/linux/raid ; touch dest/include/linux/raid/.install

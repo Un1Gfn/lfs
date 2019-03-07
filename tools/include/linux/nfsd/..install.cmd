@@ -1,1 +1,0 @@
-cmd_dest/include/linux/nfsd/.install := /bin/sh scripts/headers_install.sh dest/include/linux/nfsd ./include/uapi/linux/nfsd nfsfh.h debug.h stats.h cld.h export.h; /bin/sh scripts/headers_install.sh dest/include/linux/nfsd ./include/generated/uapi/linux/nfsd ; touch dest/include/linux/nfsd/.install

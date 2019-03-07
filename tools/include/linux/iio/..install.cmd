@@ -1,1 +1,0 @@
-cmd_dest/include/linux/iio/.install := /bin/sh scripts/headers_install.sh dest/include/linux/iio ./include/uapi/linux/iio events.h types.h; /bin/sh scripts/headers_install.sh dest/include/linux/iio ./include/generated/uapi/linux/iio ; touch dest/include/linux/iio/.install

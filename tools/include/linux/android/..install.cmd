@@ -1,1 +1,0 @@
-cmd_dest/include/linux/android/.install := /bin/sh scripts/headers_install.sh dest/include/linux/android ./include/uapi/linux/android binder.h; /bin/sh scripts/headers_install.sh dest/include/linux/android ./include/generated/uapi/linux/android ; touch dest/include/linux/android/.install

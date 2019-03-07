@@ -1,1 +1,0 @@
-cmd_dest/include/linux/spi/.install := /bin/sh scripts/headers_install.sh dest/include/linux/spi ./include/uapi/linux/spi spidev.h; /bin/sh scripts/headers_install.sh dest/include/linux/spi ./include/generated/uapi/linux/spi ; touch dest/include/linux/spi/.install

@@ -1,1 +1,0 @@
-cmd_dest/include/linux/wimax/.install := /bin/sh scripts/headers_install.sh dest/include/linux/wimax ./include/uapi/linux/wimax i2400m.h; /bin/sh scripts/headers_install.sh dest/include/linux/wimax ./include/generated/uapi/linux/wimax ; touch dest/include/linux/wimax/.install

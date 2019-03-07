@@ -1,1 +1,0 @@
-cmd_dest/include/video/.install := /bin/sh scripts/headers_install.sh dest/include/video ./include/uapi/video uvesafb.h edid.h sisfb.h; /bin/sh scripts/headers_install.sh dest/include/video ./include/generated/uapi/video ; touch dest/include/video/.install
