@@ -56,7 +56,7 @@
 #HEADLESS=yes
 
 # Write out fsck progress if yes
-#VERBOSE_FSCK=no
+VERBOSE_FSCK=y
 
 # Speed up boot without waiting for settle in udev
 #OMIT_UDEV_SETTLE=y
