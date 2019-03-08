@@ -1,2 +1,8 @@
+# Begin /etc/profile
+
 # http://www.linuxfromscratch.org/hints/downloads/files/time.txt
 export TZ="Asia/Shanghai"
+
+export LANG=en_US.UTF-8
+
+# End /etc/profile
