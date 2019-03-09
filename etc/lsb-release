@@ -1,0 +1,4 @@
+DISTRIB_ID="Linux From Scratch"
+DISTRIB_RELEASE="8.3"
+DISTRIB_CODENAME="Darren Wu"
+DISTRIB_DESCRIPTION="Linux From Scratch"
